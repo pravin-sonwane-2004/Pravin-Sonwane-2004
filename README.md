@@ -5,13 +5,14 @@
 </p>
 
 <p align="center">
-  <strong>Consistant Java Backend Developer</strong>
+  <strong>Consistent Java Backend Developer</strong>
 </p>
+
+# 🔥 GitHub Streak
 
 <p align="center">
-  Focused on building scalable backend systems and solving real-world problems.
+  <img src="https://streak-stats.demolab.com?user=Pravin-Sonwane-2004&theme=tokyonight&cache_seconds=1800"/>
 </p>
-
 <p align="center">
   <a href="https://pravin-sonwane-portfolio.vercel.app/">Portfolio</a> •
   <a href="https://docs.google.com/document/d/1RmpPmppFxfOKwX8t7xXOr_RbtanZM8U3/edit">Resume</a> •
