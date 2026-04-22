@@ -8,11 +8,10 @@
   <strong>Consistent Java Backend Developer</strong>
 </p>
 
-# 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pravin-Sonwane-2004&theme=tokyonight&cache_seconds=1800"/>
+  Focused on building scalable backend systems and solving real-world problems.
 </p>
+
 <p align="center">
   <a href="https://pravin-sonwane-portfolio.vercel.app/">Portfolio</a> •
   <a href="https://docs.google.com/document/d/1RmpPmppFxfOKwX8t7xXOr_RbtanZM8U3/edit">Resume</a> •
@@ -26,7 +25,7 @@
 - 🎓 B.Tech CSE (Final Year)
 - 💻 Backend-focused (Java + Spring Boot)
 - 📈 Solved 100+ DSA problems
-- 🔐 Interested in scalable & secure systems
+- 🔐 Interested in scalable and secure systems
 
 ---
 
@@ -69,8 +68,6 @@
 
 ---
 
----
-
 # 🧠 LeetCode Stats
 
 <p align="center">
@@ -81,12 +78,10 @@
 
 ---
 
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pravin-Sonwane-2004&theme=tokyonight&cache_seconds=21600"/>
+  <img src="https://streak-stats.demolab.com?user=Pravin-Sonwane-2004&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -103,4 +98,4 @@
 
 - GitHub: https://github.com/Pravin-Sonwane-2004  
 - LinkedIn: https://www.linkedin.com/in/pravin-sonwane-079a621ba  
-- Email: pravinson222@gmail.com  
+- Email: pravinson222@gmail.com
