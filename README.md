@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Backend Developer • Spring Boot • Scalable Systems</strong><br>
-  B.Tech CSE (Final Year) • 100+ DSA Problems
+  B.Tech CSE (Final Year) • 150+ DSA Problems
 </p>
 
 <p align="center">
