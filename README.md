@@ -62,7 +62,6 @@
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://github.com/Pravin-Sonwane-2004">GitHub</a> •
   <a href="https://www.linkedin.com/in/pravin-sonwane-079a621ba">LinkedIn</a> •
   <a href="mailto:pravinson222@gmail.com">Email</a>
 </p>
