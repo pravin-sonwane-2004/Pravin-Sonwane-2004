@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong>Java Backend Developer • Spring Boot • REST APIs • SQL • DSA</strong><br>
-  B.Tech CSE Final Year • 150+ DSA Problems Solved
+  B.Tech CSE Final Year • 350+ DSA Problems Solved
 </p>
 
 <p align="center">
